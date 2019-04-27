@@ -38,6 +38,7 @@ N.b. to view the app in the browser, use the url and not the ip, as Google's req
 - create grader user
 - give him sudo access
 - restrict access to ssh keys
+- disable root access
 - configure timezone
 - install and update required software
 - deploy the project's code
